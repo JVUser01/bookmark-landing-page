@@ -12,7 +12,7 @@
 
 # :gear: Demonstração do site
 
-Acesse o site aqui: 
+Acesse o site aqui: https://jvuser01.github.io/bookmark-landing-page/
 
 ## Layout Desktop
 
